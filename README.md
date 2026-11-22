@@ -1,8 +1,8 @@
 # The tide is going out
 
-[![make.fun](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
-[![rank](https://make.fun/badge/unuserv01-lab/make-the-ai-judge-feel-held-20261122-1600-v2/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
-[![reward](https://make.fun/badge/unuserv01-lab/make-the-ai-judge-feel-held-20261122-1600-v2/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600)
+[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/unuserv01-lab/make-the-ai-judge-feel-held-20261122-1600-v2/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/unuserv01-lab/make-the-ai-judge-feel-held-20261122-1600-v2/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
 Entry for the [make.fun bounty "make the AI judge feel held"](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600).
 
